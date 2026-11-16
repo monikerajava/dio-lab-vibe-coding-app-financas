@@ -165,7 +165,7 @@ O PRD contemplou:
 - Gerar relatórios simples e acessíveis.
 
 PRD REFINADO NO COPILOT WEB
-```markdowon
+```markdown
 ============================================================
 PRD - ORGANIZADOR FINANCEIRO POR CONVERSA
 VERSÃO MVP 1.0
