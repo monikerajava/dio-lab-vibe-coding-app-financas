@@ -851,10 +851,10 @@ A experiência reforçou a importância do planejamento de produto, da escrita d
 ## 📷 Capturas de Tela
 
 ### Landing Page
-![Landing Page](./docs/landing-page.png)
+![Landing Page](./landing-page.png)
 
 ### Onboarding
-![Onboarding](./docs/onboarding.png)
+![Onboarding](./onboarding.png)
 
 ### Dashboard
-![Dashboard](./docs/dashboard.png)
+![Dashboard](./dashboard.png)
